@@ -2,7 +2,7 @@
 # MERN Netflix Clone 🎬
 
 ## About This Project:
-![Netflix Clone]()  <!-- Replace with the path to your image -->
+![Netflix Clone](mern-netflix-clone-master/frontend/public/screenshot-for-readme.png)  <!-- Replace with the path to your image -->
 
 ### ⚛️ Tech Stack:
 - **React.js** for the frontend
@@ -54,6 +54,4 @@ TMDB_API_KEY=your_tmdb_api_key
 
 The app will run locally on `http://localhost:5000`.
 ```
-
----
-
+s
