@@ -54,4 +54,4 @@ TMDB_API_KEY=your_tmdb_api_key
 
 The app will run locally on `http://localhost:5000`.
 ```
-s
+
